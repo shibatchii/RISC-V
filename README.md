@@ -2,7 +2,10 @@
 
 https://riscv.org/specifications/
 
-The RISC-V Instruction Set ManualVolume I: User-Level ISADocument Version 2.2
+The RISC-V Instruction Set ManualVolume I: User-Level ISA Document Version 2.2
+to transrate Japanese language.
+
+The RISC-V Instruction Set ManualVolume 2: Privileged Architecture Privileged Architecture Version 1.10 Document Version 1.10
 to transrate Japanese language.
 
 # License
